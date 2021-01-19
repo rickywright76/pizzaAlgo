@@ -1,2 +1,3 @@
 look up the menu 
 choose a deal
+check out cart
